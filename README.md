@@ -17,11 +17,8 @@ Took me a while to build this but I'm open sourcing this for you to be able to u
 
 All content is completely editable out of the box from ```me.ts``` file.
 
-## Demo
-To checkout this website, go to https://croissant.one
-
 ## Installation
-To install this website, you need to have nodejs installed on your machine.
+To install this website, you must install nodejs on your machine.
 
 1. Clone this repository
 2. `cd` into the directory
@@ -37,17 +34,17 @@ To install this website, you need to have nodejs installed on your machine.
 
 ## Feedback
 If you have any feedback, please reach out to me at [
-	arhammusheer@gmail.com](mailto:arhammusheer@gmail.com). I'd love to hear your thoughts. If you have a feature request, please open an issue and I'll try to implement it as soon as possible.
+	hritvik.sajor@gmail.com](mailto:hritvik.sajo@gmail.com). I'd love to hear your thoughts. If you have a feature request, please open an issue and I'll try to implement it as soon as possible.
 
-Also, If you have a major feature which you have implemented, please open a PR and I'll be happy to review and merge it.
+Also, If you have a major feature that you have implemented, please open a PR and I'll be happy to review and merge it.
 
-If you liked this project, please give it a ⭐️ on Github.
+If you liked this project, please give it a ⭐️ on GitHub.
 
 
 ## Color Theme
 The template now supports color themes!
 
-You can set your default theme in `src/me.ts` in `themeColor` variable.
+You can set your default theme in `src/me.ts` in the `themeColor` variable.
 
 You can also select allowed themes which the user can switch to.
 To modify the list go to `src/me.ts` and modify the `multiThemeOptions` list.
@@ -67,5 +64,3 @@ To modify the list go to `src/me.ts` and modify the `multiThemeOptions` list.
 ![Example Themes](https://github.com/user-attachments/assets/87a0287d-dbec-4f92-b0fb-924ab049e7f1)
 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
