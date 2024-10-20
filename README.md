@@ -1,4 +1,4 @@
-# Croissant Portfolio
+# Hritvik's portfolio
 
 > [!TIP]
 > Website now has multi theme support. Scroll down to [Theme](#color-theme) section to check it out!
