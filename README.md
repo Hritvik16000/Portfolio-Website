@@ -34,7 +34,7 @@ To install this website, you must install nodejs on your machine.
 
 ## Feedback
 If you have any feedback, please reach out to me at [
-	hritvik.sajor@gmail.com](mailto:hritvik.sajo@gmail.com). I'd love to hear your thoughts. If you have a feature request, please open an issue and I'll try to implement it as soon as possible.
+	hritvik.sajo@gmail.com](mailto:hritvik.sajo@gmail.com). I'd love to hear your thoughts. If you have a feature request, please open an issue and I'll try to implement it as soon as possible.
 
 Also, If you have a major feature that you have implemented, please open a PR and I'll be happy to review and merge it.
 
@@ -61,6 +61,6 @@ To modify the list go to `src/me.ts` and modify the `multiThemeOptions` list.
 - pink
 - blackAlpha (Not Recommended)
 
-![Example Themes](https://github.com/user-attachments/assets/87a0287d-dbec-4f92-b0fb-924ab049e7f1)
+
 
 
